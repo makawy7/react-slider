@@ -1,0 +1,1 @@
+## Simple slider with React.js
